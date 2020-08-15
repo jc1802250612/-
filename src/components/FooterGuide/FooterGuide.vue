@@ -56,6 +56,7 @@ export default {
 <style lang="stylus" scoped>
 @import '../../assets/stylus/mixins.styl';
 .footer-guide
+  background-color #ffffff
   top-border-1px(#cccccc)
   display flex
   position fixed
